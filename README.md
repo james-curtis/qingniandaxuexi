@@ -7,7 +7,6 @@
 协议均为POST
 参数均为projectId
 经测试User-Agent可有可无，但是cookie中的sessionid必须要有。
-
 具体sessionid获取方法如下：
 在微信中操作
 第一步.打开这个链接debugmm.qq.com/?forcex5=true点开后，退出就行了，接着下一步
