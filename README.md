@@ -47,3 +47,24 @@ mt管理器(管理文件的)， https://yunling.lanzous.com/iVkCCj7vfna
 部分Linux命令:
 ls列出当前目录下文件
 pwd显示当前目录
+
+# 截图
+
+![img](http://a1.qpic.cn/psc?/V13DEae53fxbUA/ruAMsa53pVQWN7FLK88i5getD4PMuxQT0M*vxlD5odFFkwoz4A4Q1Wvb2w7XAd4LI2EmGfF2hXHXlbDBO92JaEBaMj0jATJQupJtzomL9DA!/b&ek=1&kp=1&pt=0&tl=1&vuin=1462066778&tm=1647352800&sce=50-1-1&rf=viewer_311)
+
+
+
+![img](http://a1.qpic.cn/psc?/V13DEae53fxbUA/ruAMsa53pVQWN7FLK88i5getD4PMuxQT0M*vxlD5odECAk.YI4iw5ZaN0dnxHY*6dD2V3cmYH*a0fwQOBG*tGYbBNmHd3W1lIS68SzX5oIw!/b&ek=1&kp=1&pt=0&tl=1&vuin=1462066778&tm=1647352800&sce=50-1-1&rf=viewer_311)
+
+
+
+![img](http://a1.qpic.cn/psc?/V13DEae53fxbUA/ruAMsa53pVQWN7FLK88i5getD4PMuxQT0M*vxlD5odH.sgg8IUPCfQh5Qz.bdDDzfwz37PMaiP.EkzUDym4y.Yb.JI5dcBPAyGusmyaW5wk!/b&ek=1&kp=1&pt=0&tl=1&vuin=1462066778&tm=1647352800&sce=50-1-1&rf=viewer_311)
+
+
+
+![img](http://a1.qpic.cn/psc?/V13DEae53fxbUA/ruAMsa53pVQWN7FLK88i5i7KwKzD*.1QGtSW.RB1UTU5WhV9j46tqH0DiaufK1mCrUrSLHOtytfFk9fp8hNACFXUuRL.EHs7njh4XT*qCvE!/b&ek=1&kp=1&pt=0&tl=1&vuin=1462066778&tm=1647352800&sce=50-1-1&rf=viewer_311)
+
+
+
+![img](http://a1.qpic.cn/psc?/V13DEae53fxbUA/ruAMsa53pVQWN7FLK88i5nAtMbU6HdZ8THSJKN7socvsqX7ppma9GH9M5rDt1Xx7uwCfs4gBVuPUmyrNTj4isR*KLUG5dbGCaVZmqOgHvcg!/b&ek=1&kp=1&pt=0&tl=1&vuin=1462066778&tm=1647352800&sce=50-1-1&rf=viewer_311)
+
